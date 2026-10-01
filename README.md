@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Brett Pridemore
+Aspiring cybersecurity engineer | Based in Dayton, looking for hybrid or remote work
 
-<!--
-**bpridemore1445/bpridemore1445** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a cybersecurity-focused engineer with a passion for hands-on learning and practical security operations. Through a continuously expanding home lab, I build, test, and document real-world cybersecurity scenarios involving threat detection, network monitoring, malware analysis, and SIEM management.
+I believe the best way to learn security is by doing it. Every project in this repository represents a problem I solved, a technology I explored, or a lesson I documented.
 
-Here are some ideas to get you started:
+## Technical Skills
+### Security Operations and Monitoring
+- Wazuh (SIEM)
+- Suricata (IDS/IPS)
+- Zeek (Network Security Monitoring)
+- Wireshark (Packet capture and analysis)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Operating Systems
+- Windows
+- Linux (Kali and Ubuntu)
+- MacOS
+
+### Programming and Automation
+- Python
+- PowerShell
+- Bash
+- Java
+
+### Networking and Infrastructure
+- TCP/IP
+- DNS
+- DHCP
+- Segmentation
+- Virtualization (VMware)
+
+## Projects
+### Cybersecurity Home Lab
+Designed and deployed a security monitoring environment to simulate security operations.
+
+## Certifications and Training
+|Certification|Status|
+|----|----|
+|Google Cybersecurity|Completed|
+|Security+|In Progress|
+|...|...|
+
