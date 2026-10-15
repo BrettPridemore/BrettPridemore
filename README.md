@@ -1,37 +1,48 @@
 # Hi, I'm Brett Pridemore
 Aspiring cybersecurity specialist | Based in Dayton, looking for hybrid or remote work
+---
+I am a cybersecurity-focused systems engineer with a passion for threat detection, security monitoring, and hands-on learning. Through my home lab, I build and document real-world security scenarios involving SIEM administration, network analysis, attack detection, and system hardening.
 
-I am a cybersecurity-focused engineer with a passion for hands-on learning and security operations. Through my home lab, I build, test, and document real-world cybersecurity scenarios involving threat detection, network monitoring, malware analysis, and SIEM management.
-I believe the best way to learn security is by doing it. Every project in this repository represents a problem I solved, a technology I explored, or a lesson I documented.
+My goal is to transition into cybersecurity by combining my engineering experience with practical security operations skills developed through home lab projects, certifications, and continuous learning.
 
+## Projects
+### [Cybersecurity Home Lab](https://github.com/BrettPridemore/Cybersecurity-Home-Lab)
+Real-world detection, monitoring, and attack simulation environment built using Wazuh, Kali Linux, Suricata, and vulnerable systems.
+
+### [Certifications](https://github.com/BrettPridemore/Certifications)
+Professional certifications and cybersecurity training documentation.
+
+---
 ## Technical Skills
-### Security Operations and Monitoring
-- Wazuh (SIEM)
-- Suricata (IDS/IPS)
-- Zeek (Network Security Monitoring)
-- Wireshark (Packet capture and analysis)
 
-### Operating Systems
-- Windows
-- Linux (Kali and Ubuntu)
-- MacOS
-
-### Programming and Automation
+### Programming Languages
 - Python
 - PowerShell
 - Bash
 - Java
+- C++
+- SQL
+- R
 
-### Networking and Infrastructure
-- TCP/IP
-- DNS
-- DHCP
-- Segmentation
-- Virtualization (VMware)
+### Operating Systems
+- Windows
+- Linux (Ubuntu, Kali)
+- macOS
+- OpenVMS
 
-## Projects
-### Cybersecurity Home Lab
-[View Repository](https://github.com/BrettPridemore/Cybersecurity-Home-Lab)
-## Certifications and Training
-[View Repository](https://github.com/BrettPridemore/Certifications)
+### Security Operations & Monitoring
+- Wazuh (SIEM)
+- Suricata (IDS/IPS)
+- Zeek (Network Security Monitoring)
+- Wireshark
+- Log Analysis
+
+### Networking & Infrastructure
+- TCP/IP protocols
+- DNS addressing
+- Network Segmentation
+- VMware Virtualization
+- Network switch management
+
+---
 
