@@ -1,9 +1,9 @@
 # Hi, I'm Brett Pridemore
-Aspiring cybersecurity specialist | Based in Dayton, looking for hybrid or remote work
----
+
 I am a cybersecurity-focused systems engineer with a passion for threat detection, security monitoring, and hands-on learning. Through my home lab, I build and document real-world security scenarios involving SIEM administration, network analysis, attack detection, and system hardening.
 
 My goal is to transition into cybersecurity by combining my engineering experience with practical security operations skills developed through home lab projects, certifications, and continuous learning.
+
 
 ## Projects
 ### [Cybersecurity Home Lab](https://github.com/BrettPridemore/Cybersecurity-Home-Lab)
