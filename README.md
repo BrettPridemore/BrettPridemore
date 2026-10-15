@@ -31,12 +31,7 @@ I believe the best way to learn security is by doing it. Every project in this r
 
 ## Projects
 ### Cybersecurity Home Lab
-Designed and deployed a security monitoring environment to simulate security operations.
-
+[View Repository](https://github.com/BrettPridemore/Cybersecurity-Home-Lab)
 ## Certifications and Training
-|Certification|Status|
-|----|----|
-|Google Cybersecurity|Completed|
-|Security+|In Progress|
-|...|...|
+[View Repository](https://github.com/BrettPridemore/Certifications)
 
