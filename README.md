@@ -5,10 +5,10 @@ I am a Systems Engineer at Cleveland-Cliffs, where I have spent the last three y
 I am now using that foundation to build toward a Cybersecurity Analyst or Cybersecurity Engineer role. I developed a home Security Operations Center (SOC) containing virtualized systems for attack and defense, a dedicated IDS/IPS for network security monitoring, and a SIEM to collect and centralize security events and support incident response. I simulate real-world attacks, map them to the MITRE ATT&CK framework, and perform alert triage, log analysis, incident investigation, and gap analysis of what was and wasn't detected. Every lab is documented with objectives, findings, and lessons learned, building the incident reporting and technical writing skills a security team relies on. I'm seeking a role where I can bring this blend of enterprise infrastructure experience and hands-on security operations to protect an organization from day one.
 
 
-- **B.S. in Computer Science**, Miami University (Ohio)
-- Studying for **CompTIA Security+**
-- Earned certifications in **cybersecurity fundamentals, ethical hacking and ICS/OT security** from Google, QA and CISA
-- **Looking for:** SOC Analyst, Security Analyst or IT Security roles in the Cleveland, Ohio area (hybrid) or remote (US)
+- B.S. in Computer Science, Miami University (Ohio)
+- Studying for CompTIA Security+
+- Earned certifications in cybersecurity fundamentals, ethical hacking and ICS/OT security from Google, QA and CISA
+- Looking for: SOC Analyst, Security Analyst or IT Security roles in the Cleveland, Ohio area (hybrid) or remote (US)
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brett-pridemore)
