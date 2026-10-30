@@ -53,6 +53,6 @@ Professional certifications and cybersecurity training documentation.
 
 ---
 ## 📥 Let's Connect
-I’m always up for a conversation about cybersecurity opportunities, but I’m equally happy to debate chess openings or hear about your latest round of golf.
+I am always up for a conversation about cybersecurity opportunities, but I am equally happy to just talk about chess or your latest round of golf.
 
 Feel free to connect with me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/brett-pridemore).
